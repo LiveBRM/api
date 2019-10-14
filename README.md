@@ -3,10 +3,10 @@
 This is the backend API for LiveBRM Community Edition
 
 
-###Features
+### Features
  - Customer Resource Management
  - Asset Management
  - Event / Lead Management
 
-###Note
+### Note
 More features are included in the hosted version of LiveBRM
